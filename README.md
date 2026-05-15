@@ -1,7 +1,7 @@
 # ![header](https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=50&animation=fadeIn&fontAlignY=38)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taemin&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="taemin's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taemin&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="taemin34297's Stats" />
 </div>
 
 ## 🚀 About Me
