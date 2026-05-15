@@ -21,14 +21,20 @@
 ### 🛠️ Tools / Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
 ### 📂 Key Projects
+
 #### 1. CoinMirror (개인 프로젝트)
+- **설명:** 리액트 기반 실시간 암호화폐 가상 투자 대시보드
+- **핵심:** Chart.js를 활용한 캔들/라인 차트 구현 및 Supabase Realtime 채팅 시스템
+- **주요 기술:** Java, intelij, Tailwind, MariaDB
+- 
+#### 2. CoinMirror (개인 프로젝트)
 - **설명:** 리액트 기반 실시간 암호화폐 가상 투자 대시보드
 - **핵심:** Chart.js를 활용한 캔들/라인 차트 구현 및 Supabase Realtime 채팅 시스템
 - **주요 기술:** React, Chart.js, Supabase, CSS3
 
-#### 2. AI 기반 서비스 (진행 중)
+#### 3. AI 기반 서비스 (팀 프로젝)
 - **설명:** 딥러닝 모델(CNN/RNN)을 활용한 행동 탐지 및 예측 시스템
-- **주요 기술:** Python, PyTorch, Keras, Django
+- **주요 기술:** RNN, ANN, YOLO, EfficientNet, Python, PyTorch, Keras, Django 
 
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=taemin&show_icons=true&theme=radical)
