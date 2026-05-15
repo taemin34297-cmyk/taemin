@@ -69,7 +69,3 @@
 
 ---
 
-## 📈 Analysis
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin34297&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-</p>
