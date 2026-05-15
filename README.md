@@ -1,7 +1,7 @@
-# ![header](https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=50&animation=fadeIn&fontAlignY=38)
+# ![header](https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Welcome%20to%20taemin's%20Portfolio&fontSize=50&animation=fadeIn&fontAlignY=38)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taemin&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="taemin34297's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taemin34297&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="taemin34297's Stats" />
 </div>
 
 ## 🚀 About Me
@@ -53,7 +53,7 @@
 ## 📂 Key Projects
 
 ### 🖼️ 나스다 (팀 프로젝트)
-> **비주얼 큐레이션 및 다이어리 꾸미기 서비스**
+> **Pinterest 스타일 비주얼 큐레이션 및 다이어리 서비스**
 - **핵심:** Chart.js를 활용한 캔들/라인 차트 구현 및 Supabase Realtime 채팅 시스템
 - **주요 기술:** `Java`, `IntelliJ`, `Tailwind`, `MariaDB`
 
@@ -71,5 +71,5 @@
 
 ## 📈 Analysis
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin34297&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
 </p>
